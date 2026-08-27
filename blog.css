@@ -46,6 +46,7 @@ h2{
     text-shadow: 0 0 10px white;
     transition: 0.1s ease;
     cursor: default;
+    
 
 }
 .logo:hover{
@@ -96,7 +97,12 @@ h2{
     padding: 20px;
     width: 260px;
     box-shadow: 0 4px 10px gray;
+    transition: 0.1s ease;
+    
 
+}
+.photo-box:hover{
+    transform: scale(1.09);
 }
 .photo-box h2 {
 color: rgb(0, 0, 8);
